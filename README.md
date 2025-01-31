@@ -1,9 +1,8 @@
 Below is a sample README you can use for your "auto-dm" repository. Feel free to customize the sections and add any additional details specific to your project:
 
-```markdown
 # auto-dm
 
-A TypeScript/JavaScript project designed to automate sending direct messages. This repository aims to provide an easy, customizable solution for handling messaging workflows in various applications or platforms.
+A project designed to automate sending direct messages. This repository aims to provide an easy, customizable solution for handling messaging workflows in various applications or platforms.
 
 ## Table of Contents
 - [Features](#features)
